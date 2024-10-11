@@ -12,6 +12,7 @@
 
 💡 **Current Projects:**
 - Developing an **e-commerce website** using **Next.js** and **Tailwind CSS** to create a seamless and responsive user experience.
+- Working as part of a team to develop an animal colony management system for the Institute of Medical Science at Forresthill Campus, Aberdeen.
 
 🎯 **Skills & Interests:**
 - Web Development (Front-end & Back-end)
