@@ -24,7 +24,7 @@
 
 📈 **GitHub Stats:**
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gonz-tyler&show_icons=true&theme=radical&cache_seconds=1800)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gonz-tyler&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gonz-tyler&layout=compact&theme=radical&cache_seconds=1800)
 
 ---
