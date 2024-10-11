@@ -24,8 +24,8 @@
 
 📈 **GitHub Stats:**
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gonz-tyler&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gonz-tyler&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gonz-tyler&show_icons=true&theme=radical&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gonz-tyler&layout=compact&theme=radical&cache_seconds=1800)
 
 ---
 
