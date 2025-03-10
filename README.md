@@ -2,25 +2,27 @@
 
 🎓 **3rd Year Computer Science Student** at the University of Aberdeen.
 
-🌐 **Full Stack App/Web Developer** and **Data Science Enthusiast**. I am passionate about web development, front-end design, and improving user experiences.
+🌐 **Full Stack App/Web Developer** and **Data Science Enthusiast**. I am passionate about web development, Linux, front-end design, and improving user experiences.
 
 🔧 **Technologies I Work With:**
 - Front-end: HTML, CSS, JavaScript, Tailwind CSS, Next.js
 - Back-end: Python, Node.js, Express
 - Databases: PostgreSQL, MySQL
-- Others: C#, C++, Java, learning C and TypeScript
+- Others: C#, C++, Java, learning C and TypeScript, bash
 
 💡 **Current Projects:**
 - Developing an **e-commerce website** using **Next.js** and **Tailwind CSS** to create a seamless and responsive user experience.
 - Working as part of a team to develop an animal colony management system for the Institute of Medical Science at Forresthill Campus, Aberdeen.
+- Developing a custom debian based iso for personal use with automatic package install scripts.
 
 🎯 **Skills & Interests:**
 - Web Development (Front-end & Back-end)
 - User Experience (UX) Design
 - Data Science and Analytics
+- Linux
 
 🚀 **Learning Journey:**
-- Currently diving deeper into **C** and **TypeScript** to expand my technical toolkit.
+- Currently diving deeper into **Bash**, **Flutter** and **TypeScript** to expand my technical toolkit.
 
 📈 **GitHub Stats:**
 
