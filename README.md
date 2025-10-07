@@ -1,6 +1,6 @@
 # Hi there, I'm Gonz 👋
 
-🎓 **3rd Year Computer Science Student** at the University of Aberdeen.
+🎓 **4th Year Computer Science Student** at the University of Aberdeen.
 
 🌐 **Full Stack App/Web Developer** and **Data Science Enthusiast**. I am passionate about web development, Linux, front-end design, and improving user experiences.
 
@@ -8,7 +8,7 @@
 - Front-end: HTML, CSS, JavaScript, Tailwind CSS, Next.js
 - Back-end: Python, Node.js, Express
 - Databases: PostgreSQL, MySQL
-- Others: C#, C++, Java, learning C and TypeScript, bash
+- Others: C#, C++, Java, learning React, C and TypeScript, bash
 
 💡 **Current Projects:**
 - Developing an **e-commerce website** using **Next.js** and **Tailwind CSS** to create a seamless and responsive user experience.
@@ -22,7 +22,7 @@
 - Linux
 
 🚀 **Learning Journey:**
-- Currently diving deeper into **Bash**, **Flutter** and **TypeScript** to expand my technical toolkit.
+- Currently diving deeper into **Java** and **React** to expand my technical toolkit.
 
 📈 **GitHub Stats:**
 
