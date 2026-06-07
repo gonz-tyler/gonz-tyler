@@ -1,82 +1,61 @@
-# Hi there, I'm Gonz
+# Hey, I'm Gonz
 
-<a href="https://www.linkedin.com/in/gonzalo-escolar-tyler-118239237">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://gonz-tyler.github.io">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
-</a>
-<a href="https://projectout.app">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/gonz-tyler">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://gonz-tyler.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://projectout.app">
+    <img src="https://img.shields.io/badge/ProjectOut-000000?style=for-the-badge&logo=codeigniter&logoColor=white" alt="ProjectOut" />
+  </a>
+</p>
 
-<br />
+**Full-Stack Dev | Aberdeen Comp Sci Grad | Arch User (btw)**
 
-A versatile **Full-Stack Developer** and Computer Science graduate from the University of Aberdeen. I'm passionate about building complete digital experiences, with a love for UI/UX.
-
----
-
-## What I'm Building
-
-Here are a few projects that showcase my journey and skills across different technology stacks.
-
-| Project | Description | Technologies Used |
-|---|---|---|
-| **Full-Stack Budgeting App** | A modern web app for personal finance tracking, featuring a fully containerized backend, a reactive frontend, and a complete set of CRUD operations for managing transactions. | `Java` `Spring Boot` `React` `Mantine UI` `PostgreSQL` `Docker` |
-| **Blackout - Habit Tracker** | A cross-platform mobile app designed to help users build routines through a unique "blackout" visualization system. All data is stored locally for speed and privacy. | `Flutter` `Dart` `Hive` |
-| **Birdo - AI Sighting App** | A hackathon project for **Core29** that uses AI to identify animal species from an image, allowing users to map and track biodiversity in their local area. | `Python` `Flask` `React` `Computer Vision` |
-| **Linux (mainly Arch and Debian) Customisation Files** | A personalized automated package installation and configuration scripts, tailored for a streamlined development environment. | `Arch` `Bash Scripting` `Linux Kernel` |
+I write code, break things, and obsess over UI/UX until it looks genuinely good.
 
 ---
 
-## My Tech Toolkit
+## Currently Working On
 
-I enjoy learning new technologies and have experience working with a diverse set of tools across the stack.
+### The Custom CRM
+A fully containerized, full-stack CRM built to handle real data efficiently with automations. 
+> **Stack:** `Docker` `Django` `React` `PostgreSQL`
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Frontend</strong><br>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge" />
-      </p>
-      <strong>Mobile</strong><br>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-      </p>
-    </td>
-    <td valign="top" width="50%">
-      <strong>Backend</strong><br>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-      </p>
-      <strong>Databases & DevOps</strong><br>
-      <p>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-      </p>
-    </td>
-  </tr>
-</table>
+### BURNOUT - Workout App
+A cross-platform mobile app that tracks your routines, visualizes your progress, and works for the user. Fast, entirely local, and detailed (and free). 
+> **Stack:** `Flutter` `Dart` `Hive`
 
 ---
 
-## My GitHub Stats
+## Tools
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gonz-tyler&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gonz-tyler&layout=compact&theme=radical&cache_seconds=1800)
+### Frontend & Mobile
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Backend & Databases
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Ops & Environment
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
-Feel free to check out my repositories and connect with me!
+
+## The Damage
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gonz-tyler&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonz-tyler&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+</p>
