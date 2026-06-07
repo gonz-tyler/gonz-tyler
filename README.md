@@ -57,5 +57,4 @@ A cross-platform mobile app that tracks your routines, visualizes your progress,
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gonz-tyler&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonz-tyler&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
