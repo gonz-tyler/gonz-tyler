@@ -12,7 +12,7 @@
 
 <br />
 
-A versatile **Full-Stack Developer** and final-year Computer Science student at the University of Aberdeen. I'm passionate about building complete digital experiences—from robust, enterprise-grade backends to polished mobile and web applications. My focus is on creating intuitive user experiences powered by clean, scalable systems.
+A versatile **Full-Stack Developer** and Computer Science graduate from the University of Aberdeen. I'm passionate about building complete digital experiences, with a love for UI/UX.
 
 ---
 
